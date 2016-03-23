@@ -1,12 +1,12 @@
 {
   "project": {
-    "name": "Finda",
-    "description": "<p>Finda is a generic \"find-a\" app for geographic datasets.</p>",
-    "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/codeforboston/finda/issues\" target=\"_blank\">Github</a> page."
+    "name": "Finda - Pantry",
+    "description": "Using the Find-a platform for displaying data from the old Pantry Pickup",
+    "contact": ""
   },
   "map": {
     "preview_attribute": "organization_name",
-    "center":[42.3725, -71.1266],
+    "center":[42.36, -71.05],
     "zoom":13,
     "maxZoom":16,
     "maxBounds":[
@@ -22,11 +22,6 @@
     {"name": "contact_names", "title": "Contact Information" },
     "contact_emails",
     "phone_numbers",
-
-    {"name": "services_offered", "title": "Services" },
-    {"name": "youth_category", "title": "Type of Organization" },
-    {"name": "target_populations", "title": "Populations Served" },
-
     {"name": "additional_notes", "title": "Information"}
   ],
   "list": [
@@ -39,20 +34,7 @@
       "keys": [
         "address",
         "organization_name",
-        "community",
-        "youth_category",
-        "service_class_level_2",
         "additional_notes"]
-    }
-  },
-  "facets": {
-    "target_populations": {
-      "title": "Populations Served",
-      "type": "list"
-    },
-    "youth_category": {
-      "title": "Category",
-      "type": "single"
     }
   },
   "analytics": {
@@ -62,5 +44,5 @@
     "hostname": "auto",
     "detail_enabled": true
   },
-  "geojson_source": "data.geojson"
+  "geojson_source": "pantries.geojson"
 }

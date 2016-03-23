@@ -1,0 +1,3661 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.933871,
+          42.463059
+        ]
+      },
+      "properties": {
+        "address": "10 Baltimore St.",
+        "organization_name": "Lynn City Mission",
+        "source": "GBFB Member Agency",
+        "city": "Lynn",
+        "web_url": "",
+        "phone_numbers": "781-775-9349",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.939271,
+          42.466824
+        ]
+      },
+      "properties": {
+        "address": "40 Green St.",
+        "organization_name": "Saint Vincent de Paul/St. Joseph's Parish Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Lynn",
+        "web_url": "",
+        "phone_numbers": "781-593-8049",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9465546,
+          42.4629437
+        ]
+      },
+      "properties": {
+        "address": "65 Munroe St.",
+        "organization_name": "East Coast International Church Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Lynn",
+        "web_url": "",
+        "phone_numbers": "781-592-3242",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9472492,
+          42.4650928
+        ]
+      },
+      "properties": {
+        "address": "98 Willow Street",
+        "organization_name": "My Brother's Table",
+        "source": "GBFB Finder",
+        "city": "Lynn",
+        "web_url": "",
+        "phone_numbers": "781-595-3224",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "12:30",
+            "start": "11:45",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "12:30",
+            "start": "11:45",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "12:30",
+            "start": "11:45",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "12:30",
+            "start": "11:45",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/07/2013",
+            "end": "12:30",
+            "start": "11:45",
+            "repeatsEvery": "7",
+            "repeatsOn": "Friday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/08/2013",
+            "end": "16:15",
+            "start": "14:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Saturday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94753,
+          42.464912
+        ]
+      },
+      "properties": {
+        "address": "100 Willow St.",
+        "organization_name": "Lynn Emergency Shelter",
+        "source": "GBFB Member Agency",
+        "city": "Lynn",
+        "web_url": "http://www.lynnemergencyshelter.org/",
+        "phone_numbers": "781-581-6600",
+        "contact_names": [],
+        "contact_emails": [
+          "Oneil.gray@lsahome.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "08:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "08:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "08:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "08:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/07/2013",
+            "end": "08:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Friday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/08/2013",
+            "end": "24:00",
+            "start": "12:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Saturday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.956273,
+          42.462796
+        ]
+      },
+      "properties": {
+        "address": "74 South Common St.",
+        "organization_name": "Saint Stephen's Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Lynn",
+        "web_url": "",
+        "phone_numbers": "781-599-8963",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.955085,
+          42.465525
+        ]
+      },
+      "properties": {
+        "address": "56 Franklin St.",
+        "organization_name": "Iglesia Christiana Torrente De Cedron Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Lynn",
+        "web_url": "",
+        "phone_numbers": "781-593-9931",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.918931,
+          42.505226
+        ]
+      },
+      "properties": {
+        "address": "207 Highland Ave.",
+        "organization_name": "Joseph's Storehouse",
+        "source": "GBFB Member Agency",
+        "city": "Salem",
+        "web_url": "http://jshfoodpantry.com/",
+        "phone_numbers": "978-594-4423",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9742734,
+          42.4640025
+        ]
+      },
+      "properties": {
+        "address": "589 Boston St.",
+        "organization_name": "Sacred Heart Tree of Life Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Lynn",
+        "web_url": "https://sites.google.com/site/sacredheart01905/Home/Tree-of-life-food-pantry",
+        "phone_numbers": "781-599-2616",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.896651,
+          42.518457
+        ]
+      },
+      "properties": {
+        "address": "56 Margin Street",
+        "organization_name": "SMI/Lifebridge",
+        "source": "GBFB Finder",
+        "city": "Salem",
+        "web_url": "",
+        "phone_numbers": "978-744-0500",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/08/2013",
+            "end": "19:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Saturday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8986598,
+          42.5218312
+        ]
+      },
+      "properties": {
+        "address": "8 North St.",
+        "organization_name": "Food for the World, Inc. Spanish Free Methodist Church Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Salem",
+        "web_url": "",
+        "phone_numbers": "978-683-9949",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.894862,
+          42.523916
+        ]
+      },
+      "properties": {
+        "address": "211 Bridge St.",
+        "organization_name": "First Universalist Church - Salem Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Salem",
+        "web_url": "http://salemuu.org/",
+        "phone_numbers": "978-744-3224",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.900571,
+          42.525726
+        ]
+      },
+      "properties": {
+        "address": "93 North St.",
+        "organization_name": "Salvation Army/Salem Meals",
+        "source": "GBFB Finder",
+        "city": "Salem",
+        "web_url": "",
+        "phone_numbers": "978-744-5181",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "12:30",
+            "start": "12:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9289409,
+          42.5253534
+        ]
+      },
+      "properties": {
+        "address": "17 Chestnut St.",
+        "organization_name": "Saint Vincent de Paul/Saint John the Baptist",
+        "source": "GBFB Member Agency",
+        "city": "Peabody",
+        "web_url": "",
+        "phone_numbers": "978-531-0002",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.923241,
+          42.529338
+        ]
+      },
+      "properties": {
+        "address": "71 Wallis St.",
+        "organization_name": "Haven From Hunger Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Peabody",
+        "web_url": "http://www.havenfromhunger.org/",
+        "phone_numbers": "978-531-1530",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "18:00",
+            "start": "17:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "18:00",
+            "start": "17:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "18:00",
+            "start": "17:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0118954,
+          42.4488453
+        ]
+      },
+      "properties": {
+        "address": "50 Essex St.",
+        "organization_name": "United Parish Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Saugus",
+        "web_url": "",
+        "phone_numbers": "781-233-2663",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00857,
+          42.40926
+        ]
+      },
+      "properties": {
+        "address": "230 Beach St.",
+        "organization_name": "First Congregational Church Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Revere",
+        "web_url": "http://www.firstcongrevere.org/foodpantry",
+        "phone_numbers": "781-284-4158",
+        "contact_names": [],
+        "contact_emails": [
+          "ngranitsas@firstcongrevere.org"
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.028441,
+          42.440092
+        ]
+      },
+      "properties": {
+        "address": "77 Kennedy Dr.",
+        "organization_name": "North Shore Assembly of God Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Malden",
+        "web_url": "http://www.northshoreag.org/",
+        "phone_numbers": "781-321-2121",
+        "contact_names": [],
+        "contact_emails": [
+          "contact@northshoreag.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "18:00",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "18:00",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "18:00",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "18:00",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.880836,
+          42.554093
+        ]
+      },
+      "properties": {
+        "address": "50 Elliott St.",
+        "organization_name": "Salvation Army Beverly Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Beverly",
+        "web_url": "http://www.essexcountyhungerrelief.org/Salvation-Army-Beverly-Food-Pantry",
+        "phone_numbers": "978-922-4522",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "16:00",
+            "start": "14:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "16:00",
+            "start": "14:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.87818,
+          42.5569909
+        ]
+      },
+      "properties": {
+        "address": "371 Cabot St.",
+        "organization_name": "Beverly Bootsraps Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Beverly",
+        "web_url": "http://www.beverlybootstraps.org/",
+        "phone_numbers": "978-927-1561",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "12:30",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "12:30",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "18:00",
+            "start": "17:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "12:30",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "18:00",
+            "start": "17:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "12:30",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0317135,
+          42.3993219
+        ]
+      },
+      "properties": {
+        "address": "201 Washington Ave.",
+        "organization_name": "Saint Luke's/San Lucas Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Chelsea",
+        "web_url": "http://www.lukelucas.org/",
+        "phone_numbers": "617-884-4278",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9788184,
+          42.5480506
+        ]
+      },
+      "properties": {
+        "address": "6 Bourbon St.",
+        "organization_name": "Haven From Hunger Meals Program",
+        "source": "GBFB Member Agency",
+        "city": "Peabody",
+        "web_url": "http://www.sovg.us/index.php?option=com_content&view=article&id=88&Itemid=77",
+        "phone_numbers": "978-210-7413",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0378275,
+          42.3897327
+        ]
+      },
+      "properties": {
+        "address": "101 Park Street",
+        "organization_name": "Chelsea Community Kitchen",
+        "source": "GBFB Finder",
+        "city": "Chelsea",
+        "web_url": "",
+        "phone_numbers": "617-800-2216",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.063614,
+          42.4566727
+        ]
+      },
+      "properties": {
+        "address": "561 Main St.",
+        "organization_name": "First Baptist Church Pantry of Hope",
+        "source": "GBFB Member Agency",
+        "city": "Melrose",
+        "web_url": "http://www.firstbaptistmelrose.org/ministries/outreach-ministries",
+        "phone_numbers": "781-665-4470",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05531,
+          42.40779
+        ]
+      },
+      "properties": {
+        "address": "460 Broadway",
+        "organization_name": "Bread of Life Everett Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Everett",
+        "web_url": "",
+        "phone_numbers": "781-397-0404",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066914,
+          42.429333
+        ]
+      },
+      "properties": {
+        "address": "575 Main Street",
+        "organization_name": "Philadelphie Seventh Day Adventist Church Food Pantry",
+        "source": "GBFB Finder",
+        "city": "Malden",
+        "web_url": "",
+        "phone_numbers": "617-895-7382",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0670182,
+          42.4282657
+        ]
+      },
+      "properties": {
+        "address": "54 Eastern Ave.",
+        "organization_name": "Bread of Life Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Malden",
+        "web_url": "http://www.thebreadoflifeonline.org/",
+        "phone_numbers": "781-397-0404",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "18:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0670849,
+          42.428187
+        ]
+      },
+      "properties": {
+        "address": "511 Main Street",
+        "organization_name": "Bread of Life Meals Program",
+        "source": "GBFB Finder",
+        "city": "Malden",
+        "web_url": "",
+        "phone_numbers": "781-397-0404",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "18:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0399323,
+          42.3711703
+        ]
+      },
+      "properties": {
+        "address": "56 Havre St.",
+        "organization_name": "Holy Redeemer Church Our Daily Bread Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "East Boston",
+        "web_url": "",
+        "phone_numbers": "617-597-5926",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "16:00",
+            "start": "15:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0640121,
+          42.3998035
+        ]
+      },
+      "properties": {
+        "address": "3 Charleton St.",
+        "organization_name": "A Better Tomorrow",
+        "source": "GBFB Member Agency",
+        "city": "Everett",
+        "web_url": "http://www.abticharity.org/",
+        "phone_numbers": "978-387-2542",
+        "contact_names": [],
+        "contact_emails": [
+          "info@abtservices.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "16:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsBy": "Monday",
+            "repeats": "Monthly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0782565,
+          42.4203166
+        ]
+      },
+      "properties": {
+        "address": "12 Thatcher St.",
+        "organization_name": "Malden Haitian Church of the Nazarene Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Malden",
+        "web_url": "",
+        "phone_numbers": "",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.056862,
+          42.377255
+        ]
+      },
+      "properties": {
+        "address": "49 Vine St",
+        "organization_name": "The Harvest on Vine",
+        "source": "CofBoston",
+        "city": "Charlestown",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-990-7314",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "20:00",
+            "start": "18:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "12:30",
+            "start": "09:45",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "12:30",
+            "start": "09:45",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0697333,
+          42.501315
+        ]
+      },
+      "properties": {
+        "address": "467 Main St.",
+        "organization_name": "Wakefield Interfaith Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Wakefield",
+        "web_url": "http://www.wifoodpantry.org/",
+        "phone_numbers": "781-245-2510",
+        "contact_names": [],
+        "contact_emails": [
+          "info@wifoodpantry.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "13:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "13:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0546911,
+          42.367225
+        ]
+      },
+      "properties": {
+        "address": "1 Michelangelo Street",
+        "organization_name": "ABCD N. End/W.End Pantry",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-523-8125",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0546911,
+          42.367225
+        ]
+      },
+      "properties": {
+        "address": "1 Michaelangelo Street",
+        "organization_name": "ABCD-N. End W. End Neighborhood Services",
+        "source": "GBFB Finder",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-523-8125",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "14:00",
+            "start": "13:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8835726,
+          42.3022625
+        ]
+      },
+      "properties": {
+        "address": "812 Nantasket Ave.",
+        "organization_name": "Wellspring Multi-Service Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Hull",
+        "web_url": "http://www.wellspringhull.org/",
+        "phone_numbers": "781-925-0951",
+        "contact_names": [],
+        "contact_emails": [
+          "monica@wellspringhull.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "12:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "12:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.084192,
+          42.3946309
+        ]
+      },
+      "properties": {
+        "address": "9 Cummings St.",
+        "organization_name": "International Ministry Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Somerville",
+        "web_url": "",
+        "phone_numbers": "617-625-1692",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "12:30",
+            "start": "09:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "12:30",
+            "start": "09:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "12:30",
+            "start": "09:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0584579,
+          42.3590462
+        ]
+      },
+      "properties": {
+        "address": "17 Court St.",
+        "organization_name": "New England Center for Homeless Veterans",
+        "source": "GBFB Member Agency",
+        "city": "Boston",
+        "web_url": "http://www.nechv.org/",
+        "phone_numbers": "617-371-1800",
+        "contact_names": [],
+        "contact_emails": [
+          "info@nechv.org"
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0585569,
+          42.356705
+        ]
+      },
+      "properties": {
+        "address": "One Milk St",
+        "organization_name": "International Institute of Boston Pantry",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-695-9990",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.083544,
+          42.386176
+        ]
+      },
+      "properties": {
+        "address": "15 Franklin Street",
+        "organization_name": "PROJECT SOUP at Saint Benedict’s Church",
+        "source": "CofBoston",
+        "city": "Somerville",
+        "web_url": "http://www.somervillehomelesscoalition.org/programs/Project%20Soup.html",
+        "phone_numbers": "617-776-7687",
+        "contact_names": [],
+        "contact_emails": [
+          "projectsoup@earthlink.net"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "16:00",
+            "start": "12:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "16:00",
+            "start": "13:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/07/2013",
+            "end": "16:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Friday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0584157,
+          42.3549113
+        ]
+      },
+      "properties": {
+        "address": "100 Arch St",
+        "organization_name": "St Anthony Shrine/Franciscan Food Center",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.stanthonyshrine.org/foodcenter.asp",
+        "phone_numbers": "617-542-6440",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/06/2013",
+            "end": "14:00",
+            "start": "12:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0584157,
+          42.3549113
+        ]
+      },
+      "properties": {
+        "address": "100 Arch St.",
+        "organization_name": "Saint Anthony Shrine Franciscan Food Center",
+        "source": "GBFB Member Agency",
+        "city": "Boston",
+        "web_url": "http://www.stanthonyshrine.org/foodcenter.asp",
+        "phone_numbers": "617-542-6440",
+        "contact_names": [],
+        "contact_emails": [
+          "info@stanthonyshrine.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/06/2013",
+            "end": "13:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.099828,
+          42.475222
+        ]
+      },
+      "properties": {
+        "address": "11 Gerry St.",
+        "organization_name": "Adventist Community Services Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Stoneham",
+        "web_url": "",
+        "phone_numbers": "781-438-1374",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "18:30",
+            "start": "17:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.090185,
+          42.395707
+        ]
+      },
+      "properties": {
+        "address": "100 Temple St.",
+        "organization_name": "MCHC/Missionary Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Somerville",
+        "web_url": "",
+        "phone_numbers": "617-776-0227",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0627097,
+          42.3572789
+        ]
+      },
+      "properties": {
+        "address": "5 Park St.",
+        "organization_name": "The Paulist Center Wednesday Night Supper Club",
+        "source": "GBFB Member Agency",
+        "city": "Boston",
+        "web_url": "http://www.paulistboston.com/release_details.asp?id=40",
+        "phone_numbers": "617-742-4460",
+        "contact_names": [],
+        "contact_emails": [
+          "fiveparkst@aol.com"
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0593434,
+          42.3534949
+        ]
+      },
+      "properties": {
+        "address": "39 Kingston st",
+        "organization_name": "Boston Rescue Mission Pantry",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-338-9000",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1024092,
+          42.4267585
+        ]
+      },
+      "properties": {
+        "address": "441 Fellsway West",
+        "organization_name": "Friends of Francis Food Pantry",
+        "source": "GBFB Finder",
+        "city": "Medford",
+        "web_url": "",
+        "phone_numbers": "781-396-3400",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0842205,
+          42.3816072
+        ]
+      },
+      "properties": {
+        "address": "74 Washington St",
+        "organization_name": "Cobble Hill Apts",
+        "source": "CofBoston",
+        "city": "Somerville",
+        "web_url": "http://www.fairfoods.org/dollarbag.html",
+        "phone_numbers": "",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.037814,
+          42.334499
+        ]
+      },
+      "properties": {
+        "address": "675 E. 4th St.",
+        "organization_name": "Gavin Foundation/James F. Gavin House",
+        "source": "GBFB Member Agency",
+        "city": "South Boston",
+        "web_url": "http://www.gavinfoundation.org/",
+        "phone_numbers": "617-268-5517",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "16:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "16:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "16:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "16:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.091172,
+          42.391792
+        ]
+      },
+      "properties": {
+        "address": "275-277 Broadway",
+        "organization_name": "The Elizabeth Peabody House",
+        "source": "CofBoston",
+        "city": "Somerville",
+        "web_url": "",
+        "phone_numbers": "617-623-5510",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "19:30",
+            "start": "17:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.063677,
+          42.352365
+        ]
+      },
+      "properties": {
+        "address": "39 Boylston St.",
+        "organization_name": "St. Francis House",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-542-4211",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/01/2013",
+            "repeatsEvery": "1",
+            "repeats": "Daily",
+            "end": "09:00",
+            "start": "07:30"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.044376,
+          42.3360835
+        ]
+      },
+      "properties": {
+        "address": "5 G St.",
+        "organization_name": "Middlesex Human Service Agency Answer House",
+        "source": "GBFB Member Agency",
+        "city": "South Boston",
+        "web_url": "",
+        "phone_numbers": "617-268-7124",
+        "contact_names": [],
+        "contact_emails": [
+          "AnswerHouse@mhsainc.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "16:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0480112,
+          42.3369636
+        ]
+      },
+      "properties": {
+        "address": "409 West Broadway",
+        "organization_name": "South Boston Community Health Center",
+        "source": "CofBoston",
+        "city": "South Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-269-7500",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0715869,
+          42.35775
+        ]
+      },
+      "properties": {
+        "address": "30 Brimmer Street",
+        "organization_name": "Church of the Advent/Tuesday Supper",
+        "source": "GBFB Finder",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-523-2377",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.083028,
+          42.369518
+        ]
+      },
+      "properties": {
+        "address": "105 Spring St.",
+        "organization_name": "East End House",
+        "source": "CofBoston",
+        "city": "Cambridge",
+        "web_url": "http://www.eastendhouse.org/",
+        "phone_numbers": "617-876-4444",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "16:00",
+            "start": "13:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "13:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "13:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "16:00",
+            "start": "13:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.083028,
+          42.369518
+        ]
+      },
+      "properties": {
+        "address": "105 Spring St.",
+        "organization_name": "East-End House",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.eastendhouse.org/",
+        "phone_numbers": "617-876-4444",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8766144,
+          42.6109694
+        ]
+      },
+      "properties": {
+        "address": "69 Willow St.",
+        "organization_name": "Acord Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "South Hamilton",
+        "web_url": "",
+        "phone_numbers": "978-468-7424",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "11:30",
+            "start": "09:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "20:00",
+            "start": "18:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0543259,
+          42.3376361
+        ]
+      },
+      "properties": {
+        "address": "115 Orton Marotta Way",
+        "organization_name": "West Broadway Task Force",
+        "source": "CofBoston",
+        "city": "South Boston",
+        "web_url": "http://www.fairfoods.org/dollarbag.html",
+        "phone_numbers": "617-464-1910",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0711698,
+          42.3519952
+        ]
+      },
+      "properties": {
+        "address": "351 Boylston Street",
+        "organization_name": "Rice Sticks + Tea/Asian Food Pantry",
+        "source": "GBFB Finder",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-536-7050",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0645274,
+          42.3431749
+        ]
+      },
+      "properties": {
+        "address": "444 Harrison Avenue",
+        "organization_name": "Pine Street Inn/Meals",
+        "source": "GBFB Finder",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-892-9105",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0740681,
+          42.3520282
+        ]
+      },
+      "properties": {
+        "address": "67 Newbury Street",
+        "organization_name": "Women's Lunch Place",
+        "source": "GBFB Finder",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-267-1722",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "14:00",
+            "start": "07:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "07:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "14:00",
+            "start": "07:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "14:00",
+            "start": "07:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/07/2013",
+            "end": "14:00",
+            "start": "07:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Friday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0740681,
+          42.3520282
+        ]
+      },
+      "properties": {
+        "address": "67 Newbury St",
+        "organization_name": "Church of the Covenant",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-266-7480",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/08/2013",
+            "end": "12:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Saturday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066156,
+          42.3437801
+        ]
+      },
+      "properties": {
+        "address": "1145 Washington Street",
+        "organization_name": "Project Place",
+        "source": "GBFB Finder",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-262-3740",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "13:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "13:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "13:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "13:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.115334,
+          42.4203457
+        ]
+      },
+      "properties": {
+        "address": "147 High Street",
+        "organization_name": "Unitarian Universalist Church Pantry",
+        "source": "GBFB Finder",
+        "city": "Medford",
+        "web_url": "",
+        "phone_numbers": "781-396-4549",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0525809,
+          42.3287354
+        ]
+      },
+      "properties": {
+        "address": "345 Old Colony Ave.",
+        "organization_name": "Mary Ellen McCormack",
+        "source": "CofBoston",
+        "city": "South Boston",
+        "web_url": "http://www.fairfoods.org/dollarbag.html",
+        "phone_numbers": "",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0681322,
+          42.3407835
+        ]
+      },
+      "properties": {
+        "address": "76 Union Park St.",
+        "organization_name": "Catholic Charities/El Centro del Cardenal",
+        "source": "CofBoston",
+        "city": "Roxbury",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-506-6600",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07393,
+          42.343729
+        ]
+      },
+      "properties": {
+        "address": "23 Dartmouth St.",
+        "organization_name": "Haley House Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Boston",
+        "web_url": "http://www.haleyhouse.org/food_pantry",
+        "phone_numbers": "617-236-8132",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0977454,
+          42.3709417
+        ]
+      },
+      "properties": {
+        "address": "146 Hampshire St.",
+        "organization_name": "Mass. Ave. Baptist Church Meals Program",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.vinfen.org/",
+        "phone_numbers": "617-868-4853",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "19:00",
+            "start": "17:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0977454,
+          42.3709417
+        ]
+      },
+      "properties": {
+        "address": "146 Hampshire St.",
+        "organization_name": "Mass. Ave. Baptist Church Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.vinfen.org/",
+        "phone_numbers": "617-868-4853",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0977454,
+          42.3709417
+        ]
+      },
+      "properties": {
+        "address": "146 Hampshire St.",
+        "organization_name": "Massachusetts Avenue Baptist Church Project Manna",
+        "source": "CofBoston",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-868-4444",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0977454,
+          42.3709417
+        ]
+      },
+      "properties": {
+        "address": "146 Hampshire Street",
+        "organization_name": "Mass. Ave. Baptist Church Meals",
+        "source": "GBFB Finder",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-868-4853",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "19:00",
+            "start": "17:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "19:00",
+            "start": "17:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "19:00",
+            "start": "17:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "19:00",
+            "start": "17:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0718553,
+          42.3400167
+        ]
+      },
+      "properties": {
+        "address": "1500 Washington St",
+        "organization_name": "Salvation Army/South End Food Pantry",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-236-7233",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "11:30",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "11:30",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "11:30",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "11:30",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0729228,
+          42.340084
+        ]
+      },
+      "properties": {
+        "address": "50 W. Brookline St.",
+        "organization_name": "Blackstone Park",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.fairfoods.org/dollarbag.html",
+        "phone_numbers": "",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0797833,
+          42.3456321
+        ]
+      },
+      "properties": {
+        "address": "70 St. Botolph St.",
+        "organization_name": "St. Botolph House",
+        "source": "CofBoston",
+        "city": "South End",
+        "web_url": "http://www.fairfoods.org/dollarbag.html",
+        "phone_numbers": "",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.100291,
+          42.369352
+        ]
+      },
+      "properties": {
+        "address": "311 Broadway",
+        "organization_name": "Faith Lutheran Church Faith Kitchen",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.faithkitchen.org/",
+        "phone_numbers": "617-354-0414",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1041772,
+          42.3745055
+        ]
+      },
+      "properties": {
+        "address": "1493 Cambridge Street",
+        "organization_name": "AFCH/Zinberg Clinic Pantry",
+        "source": "GBFB Finder",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-665-1038",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1041772,
+          42.3745055
+        ]
+      },
+      "properties": {
+        "address": "1493 Cambridge Street ",
+        "organization_name": "Zinberg Clinic Pantry",
+        "source": "CofBoston",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-665-1606",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "17:00",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1041772,
+          42.3745055
+        ]
+      },
+      "properties": {
+        "address": "1493 Cambridge St.",
+        "organization_name": "Zinberg Clinic Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-665-1038",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "17:00",
+            "start": "08:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "17:00",
+            "start": "08:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "17:00",
+            "start": "08:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "17:00",
+            "start": "08:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0974375,
+          42.3646127
+        ]
+      },
+      "properties": {
+        "address": "71 Cherry St.",
+        "organization_name": "Margaret Fuller House Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.margaretfullerhouse.org/",
+        "phone_numbers": "617-547-4680",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "19:30",
+            "start": "17:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "13:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/07/2013",
+            "end": "12:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Friday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0789006,
+          42.3430901
+        ]
+      },
+      "properties": {
+        "address": "485 Columbus Ave.",
+        "organization_name": "Union United Methodist Church Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Roxbury",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-287-1020",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.098998,
+          42.363174
+        ]
+      },
+      "properties": {
+        "address": "874 Main Street",
+        "organization_name": "Project Uplift of Union Baptist Church",
+        "source": "GBFB Finder",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-864-6885",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.058714,
+          42.3242819
+        ]
+      },
+      "properties": {
+        "address": "24 Bellflower St.",
+        "organization_name": "Bellflower Apartments",
+        "source": "CofBoston",
+        "city": "Dorchester",
+        "web_url": "http://www.fairfoods.org/dollarbag.html",
+        "phone_numbers": "",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1017909,
+          42.3655427
+        ]
+      },
+      "properties": {
+        "address": "85 Bishop Allen Drive ",
+        "organization_name": "St. Paul A.M.E. Church Food Pantry",
+        "source": "CofBoston",
+        "city": "Cambridge",
+        "web_url": "http://www.st-paul-ame.org/",
+        "phone_numbers": "617-661-1110",
+        "contact_names": [],
+        "contact_emails": [
+          "admin101@st-paul-ame.org"
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "14:00",
+            "start": "12:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1002358,
+          42.3633155
+        ]
+      },
+      "properties": {
+        "address": "402 Massachusetts Ave.",
+        "organization_name": "Salvation Army Cambridge Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-547-3400",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/08/2013",
+            "end": "17:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Saturday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0806706,
+          42.3411626
+        ]
+      },
+      "properties": {
+        "address": "554 Columbus Avenue",
+        "organization_name": "ABCD/South End Neighborhood Action Prgrm",
+        "source": "CofBoston",
+        "city": "Roxbury",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "13:30",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "13:30",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "13:30",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "13:30",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0737344,
+          42.334852
+        ]
+      },
+      "properties": {
+        "address": "One Boston Medican Center Place",
+        "organization_name": "Boston Medical Center Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-638-8000",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "16:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "16:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "16:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "16:00",
+            "start": "10:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0744763,
+          42.3351398
+        ]
+      },
+      "properties": {
+        "address": "818 Harrison Ave",
+        "organization_name": "Boston Medical Center Food Pantry",
+        "source": "CofBoston",
+        "city": "Roxbury",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-414-3834",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105172,
+          42.367367
+        ]
+      },
+      "properties": {
+        "address": "11 Inman St.",
+        "organization_name": "Food for Free",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.foodforfree.org/",
+        "phone_numbers": "617-868-2900",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/07/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Friday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105172,
+          42.367367
+        ]
+      },
+      "properties": {
+        "address": "11 Inman St.",
+        "organization_name": "Cambridge Economic Opportunity Committee Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.ceoccambridge.org/home0.aspx",
+        "phone_numbers": "617-868-2900",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "18:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "12:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "18:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105172,
+          42.367367
+        ]
+      },
+      "properties": {
+        "address": "11 Inman St.",
+        "organization_name": "Cambridge Economic Opportunity Committee Bread & Justice Food Pantry",
+        "source": "CofBoston",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-868-2900",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "18:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "14:00",
+            "start": "12:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "18:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.067638,
+          42.327127
+        ]
+      },
+      "properties": {
+        "address": "1033 Massachusetts Aven.",
+        "organization_name": "American Red Cross Boston Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Boston",
+        "web_url": "",
+        "phone_numbers": "617-236-2043",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "12:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.067638,
+          42.327127
+        ]
+      },
+      "properties": {
+        "address": "1033 Massachusetts Ave",
+        "organization_name": "American Red Cross/Boston Pantry",
+        "source": "CofBoston",
+        "city": "Boston",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-236-2043",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/05/2013",
+            "end": "12:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1226734,
+          42.3963507
+        ]
+      },
+      "properties": {
+        "address": "1 Davis Square",
+        "organization_name": "Project Soup West Pantry",
+        "source": "CofBoston",
+        "city": "Somerville",
+        "web_url": "http://www.somervillehomelesscoalition.org/programs/Project%20Soup.html",
+        "phone_numbers": "617-776-7687",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/03/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Monday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/04/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "17:00",
+            "start": "09:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1062771,
+          42.3668272
+        ]
+      },
+      "properties": {
+        "address": "806 Massachusetts Avenue",
+        "organization_name": "Cambridge Senior Center Food Pantry",
+        "source": "GBFB Finder",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-349-6216",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "16:00",
+            "start": "14:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.076726,
+          42.33395
+        ]
+      },
+      "properties": {
+        "address": "889 Harrison Ave.",
+        "organization_name": "Rosie's Place Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Boston",
+        "web_url": "http://www.rosiesplace.org/",
+        "phone_numbers": "617-442-9322",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "11:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/05/2013",
+            "end": "11:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Wednesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "11:30",
+            "start": "08:30",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0817369,
+          42.3382227
+        ]
+      },
+      "properties": {
+        "address": "134 Camden St.",
+        "organization_name": "ABC - People's Baptist Church Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Roxbury",
+        "web_url": "",
+        "phone_numbers": "617-427-0424",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.120918,
+          42.39072
+        ]
+      },
+      "properties": {
+        "address": "1991 Massachusetts Ave.",
+        "organization_name": "Saint James Episcopal Helping Hands Food Pantry",
+        "source": "GBFB Member Agency",
+        "city": "Cambridge",
+        "web_url": "http://www.stjames-cambridge.org/helping-hand-food-pantry/",
+        "phone_numbers": "617-547-4070",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [
+          {
+            "startsOn": "06/04/2013",
+            "end": "18:00",
+            "start": "16:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Tuesday",
+            "repeats": "Weekly"
+          },
+          {
+            "startsOn": "06/06/2013",
+            "end": "13:00",
+            "start": "11:00",
+            "repeatsEvery": "7",
+            "repeatsOn": "Thursday",
+            "repeats": "Weekly"
+          }
+        ],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07914,
+          42.334363
+        ]
+      },
+      "properties": {
+        "address": "1906 Washington St",
+        "organization_name": "Grant A.M.E./Self-Help",
+        "source": "CofBoston",
+        "city": "Roxbury",
+        "web_url": "http://www.gbfb.org/need-food/index.php",
+        "phone_numbers": "617-427-0670",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1064516,
+          42.3633394
+        ]
+      },
+      "properties": {
+        "address": "35 Magazine Street",
+        "organization_name": "Loaves & Fishes Meals Program",
+        "source": "GBFB Finder",
+        "city": "Cambridge",
+        "web_url": "",
+        "phone_numbers": "617-497-7277",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.134954,
+          42.4200345
+        ]
+      },
+      "properties": {
+        "address": "38 Boston Avenue",
+        "organization_name": "SVDP/St. Raphael's Food Pantry",
+        "source": "GBFB Finder",
+        "city": "Medford",
+        "web_url": "",
+        "phone_numbers": "781-488-5444",
+        "contact_names": [],
+        "contact_emails": [
+          ""
+        ],
+        "hours": [],
+        "additional_notes": ""
+      }
+    }
+  ]
+
+}
